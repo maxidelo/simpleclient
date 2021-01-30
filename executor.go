@@ -1,4 +1,4 @@
-package restclient
+package simpleclient
 
 import (
 	"bytes"
